@@ -1,0 +1,2 @@
+# this is java project
+## simply added text for git learning
